@@ -115,6 +115,7 @@
   width: 320px;
   height: 320px;
   margin: auto;
+  transform: scale(0.5, 0.5);
 }
 
 /* JavaScript pre-rotates these wrappers instead of the hands when getting the time at load. If it pre-rotates the hands, then the hands will not perform 1 turn at their normal speeds. */
